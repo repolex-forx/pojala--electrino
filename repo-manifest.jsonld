@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pojala/electrino/commit/0bf75954b56440f0a0ec6aa83f2ce50d56ab52e2",
       "git:hexsha": "0bf75954b56440f0a0ec6aa83f2ce50d56ab52e2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
